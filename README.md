@@ -91,13 +91,6 @@ Dual-branch architecture with patient-specific graph construction.
 
 ---
 
-### V. CONCLUSION
-
-> The proposed GAT-TNBC-Net framework introduces a robust and interpretable solution for transcriptomic-based subtype prediction in TNBC...  
-> Achieves **97.22% accuracy**, outperforms all baselines, and supports clinical applicability in precision oncology.
-
----
-
 ### Acknowledgment
 
 This work was supported by the **OP JAK reg. no. CZ.02.01.01/00/23_021/0008829**, Czechia.
