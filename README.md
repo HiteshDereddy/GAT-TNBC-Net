@@ -47,7 +47,7 @@ Dual-branch architecture with patient-specific graph construction.
 **Fig 2.** GAT-TNBC-Net architecture (GAT + LAHN + Fusion)  
 **Fig 3.** Confusion Matrix & ROC (Fold 1)
 
-![Fig 3: Confusion Matrix + ROC Curves](figures/c.jpg)
+![Fig 3: Confusion Matrix + ROC Curves](figures/co.jpg)
 
 ---
 
