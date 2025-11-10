@@ -35,18 +35,17 @@ Preprocessing: `fastp → HISAT2 → featureCounts → TMM → log₂ → Z-scor
 #### II. PROPOSED METHODOLOGY – GAT-TNBC-Net
 Dual-branch architecture with patient-specific graph construction.
 
-### Key Figures
-
 **Fig 1.** Block diagram of proposed methodology  
-**Fig 2.** GAT-TNBC-Net architecture (GAT + LAHN + Fusion)  
-**Fig 3.** Confusion Matrix
-**Fig 4.** ROC 
-
 ![Fig 1: Methodology Pipeline](figures/bd.jpg)
 
+**Fig 2.** GAT-TNBC-Net architecture (GAT + LAHN + Fusion)  
 ![Fig 2: Detailed Architecture](figures/arch.jpg)
 
-![Fig 3: Confusion Matrix](figures/1.jpg) ![Fig 4: ROC Curves](figures/2.jpg)
+**Fig 3.** Confusion Matrix
+![Fig 3: Confusion Matrix](figures/1.jpg) 
+
+**Fig 4.** ROC 
+![Fig 4: ROC Curves](figures/2.jpg)
 
 ---
 
