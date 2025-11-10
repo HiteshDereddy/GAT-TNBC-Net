@@ -95,6 +95,14 @@ This work was supported by the **OP JAK reg. no. CZ.02.01.01/00/23_021/0008829**
 
 ---
 
+### Data Availability
+
+The processed dataset used in this study (Z-score normalized RNA-seq, 360 samples, 55,662 genes) is publicly available:  
+[**Download Dataset (Google Drive)**](https://drive.google.com/file/d/1353fKQIb9cs-aBgIikDOqkig1BCXT9S0/view?usp=share_link)  
+Source: Chen et al., *Scientific Data* (2022) – DOI: [10.1038/s41597-022-01681-z](https://doi.org/10.1038/s41597-022-01681-z)
+
+---
+
 ### Citation
 
 ```bibtex
