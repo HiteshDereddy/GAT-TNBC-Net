@@ -46,7 +46,7 @@ Dual-branch architecture with patient-specific graph construction.
 
 ![Fig 2: Detailed Architecture](figures/arch.jpg)
 
-![Fig 3: Confusion Matrix + ROC Curves](figures/1.jpg) ![Fig 4: ROC Curves](figures/2.jpg)
+![Fig 3: Confusion Matrix](figures/1.jpg) ![Fig 4: ROC Curves](figures/2.jpg)
 
 ---
 
