@@ -1,12 +1,5 @@
 # GAT-TNBC-Net: Graph-Attentive Dual Branch Network for Subtype Prediction of Triple-Negative Breast Cancer from Transcriptomic Data
 
-**Hitesh Reddy Dereddy**¹  |  **Rakesh Chandra Joshi**²  |  **Pavel Sikora**³  
-¹Dept. of AI, ASET, Amity University Uttar Pradesh, Noida, India  
-²Amity Centre for Artificial Intelligence, Amity University Uttar Pradesh  
-³Dept. of Telecommunications, FEEC, Brno University of Technology, Czech Republic  
-
-**Contact:** dereddy.reddy@s.amity.edu | rakeshchandraindia@gmail.com
-
 ---
 
 ### Abstract
