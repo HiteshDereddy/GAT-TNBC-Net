@@ -11,8 +11,6 @@ We propose **GAT-TNBC-Net**, a dual-branch attention-based neural architecture t
 
 ---
 
-### Full Text (Extracted from Paper)
-
 #### I. DATA AND PREPROCESSING
 - **Dataset:** FUSCC TNBC cohort [Chen et al., 2022](https://doi.org/10.1038/s41597-022-01681-z)  
 - **Samples:** 360 annotated tumors  
